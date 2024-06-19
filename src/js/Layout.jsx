@@ -1,5 +1,5 @@
 import React from "react";
-import NavBar from "./components/navBar/NavBar.jsx";
+import NavBar from "./components/NavBar/NavBar.jsx";
 import Home from "./Views/Home.jsx";
 import Footer from "./components/Footer/Footer.jsx"
 
